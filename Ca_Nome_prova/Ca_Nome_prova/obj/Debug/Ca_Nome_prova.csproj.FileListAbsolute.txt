@@ -1,0 +1,7 @@
+C:\POO\Ca_Nome_prova\Ca_Nome_prova\obj\Debug\Ca_Nome_prova.csproj.AssemblyReference.cache
+C:\POO\Ca_Nome_prova\Ca_Nome_prova\obj\Debug\Ca_Nome_prova.csproj.CoreCompileInputs.cache
+C:\POO\Ca_Nome_prova\Ca_Nome_prova\bin\Debug\Ca_Nome_prova.exe.config
+C:\POO\Ca_Nome_prova\Ca_Nome_prova\bin\Debug\Ca_Nome_prova.exe
+C:\POO\Ca_Nome_prova\Ca_Nome_prova\bin\Debug\Ca_Nome_prova.pdb
+C:\POO\Ca_Nome_prova\Ca_Nome_prova\obj\Debug\Ca_Nome_prova.exe
+C:\POO\Ca_Nome_prova\Ca_Nome_prova\obj\Debug\Ca_Nome_prova.pdb
